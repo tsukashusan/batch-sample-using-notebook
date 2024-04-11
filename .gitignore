@@ -1,0 +1,5 @@
+*.bicep
+setting.json
+appsetting.json
+.env
+bicep-setting.json

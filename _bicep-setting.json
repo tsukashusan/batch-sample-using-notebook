@@ -1,0 +1,14 @@
+{
+    "TENANT_ID": "",
+    "SUBSCRIPTOIN_GUID": "",
+    "RESOURCE_GROUP": "",
+    "LOCATION": "japaneast",
+    "BATCH_POOL_ID":"DotNetQuickstartPool",
+    "BATCH_JOB_ID":"DotNetQuickstartJob",
+    "BATCH_POOL_NODE_COUNT": 2,
+    "BATCH_POOL_VM_SIZE":"Standard_D2ds_v5",
+    "SHARED_IMAGE_PUBLISHER":"MicrosoftWindowsServer",
+    "SHARED_IMAGE_OFFER":"WindowsServer",
+    "SHARED_IMAGE_SKU":"2016-datacenter-smalldisk",
+    "SHARED_IMAGE_VERSION":"latest"
+}
