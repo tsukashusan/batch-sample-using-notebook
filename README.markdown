@@ -10,4 +10,4 @@ CPU のクォータ申請を実施
 >既定はすべての仮想マシンタイプが0になっている
 
 >[!NOTE]
->[Batch サービスのクォータと制限](https://learn.microsoft.com/ja-jp/azure/batch/>batch-quota-limit#resource-quotas "リソース クォータ")
+>[Batch サービスのクォータと制限](https://learn.microsoft.com/ja-jp/azure/batch/batch-quota-limit#resource-quotas "リソース クォータ")
